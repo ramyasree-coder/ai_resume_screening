@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Resume Screening</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>AI Resume Screening</h1>
+
+    <form method="POST">
+        <textarea name="resume" placeholder="Paste your resume here..." required></textarea>
+        <button type="submit">Generate Summary</button>
+    </form>
+
+    {% if summary %}
+    <div class="output">
+        <h3>Resume Summary</h3>
+        <p>{{ summary }}</p>
+    </div>
+    {% endif %}
+
+    {% if skills %}
+    <div class="output">
+        <h3>Main Skills</h3>
+        <ul>
+            {% for skill in skills %}
+                <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

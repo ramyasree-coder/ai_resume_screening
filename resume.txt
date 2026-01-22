@@ -1,0 +1,41 @@
+Name: Ramya Sree
+Email: ramyasree@example.com
+Phone: +91-9876543210
+LinkedIn: linkedin.com/in/ramyasree
+GitHub: github.com/ramyasree
+
+Objective:
+Highly motivated Computer Science graduate with experience in Python, AI, and data analysis seeking a role in software development and machine learning projects.
+
+Education:
+- B.Tech in Computer Science, NECG University, 2025
+- Relevant Coursework: Data Structures, Machine Learning, Quantum Computing, Cloud Computing
+
+Skills:
+- Programming: Python, C++, SQL
+- Tools & Libraries: Pandas, NumPy, scikit-learn, Qiskit
+- Web Development: HTML, CSS, Flask
+- Soft Skills: Problem-solving, Teamwork, Communication
+
+Experience:
+- AI Intern, Tech Solutions Pvt. Ltd. (June 2024 – August 2024)
+  * Developed a predictive model to classify customer churn using Python and scikit-learn
+  * Created interactive dashboards for data visualization
+- Research Assistant, NECG University (Jan 2024 – May 2024)
+  * Worked on quantum machine learning projects using Qiskit
+  * Published a paper on quantum-enhanced classification algorithms
+
+Projects:
+- Resume Summarization Tool (Python, OpenAI API)
+  * Built a tool to summarize resumes into key bullet points
+- Smart Health Appointment System (Python, Flask)
+  * Developed a web app for scheduling and managing health appointments
+- Movie Recommendation System (Python, scikit-learn)
+  * Implemented collaborative filtering algorithms to recommend movies
+
+Achievements:
+- Winner, NECG Hackathon 2024 – Best AI Project
+- Certificate of Excellence, Python Programming, Coursera
+
+Hobbies:
+- Reading tech blogs, Playing chess, Traveling
